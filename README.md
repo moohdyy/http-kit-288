@@ -1,10 +1,6 @@
 # http-kit-288
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A clojure showcase/playground for the issue 288 of http-kit
 
 ## License
 
