@@ -14,4 +14,5 @@
   (@server))
 
 (defn -main [& args]
-  (start))
+  (start)
+  (prn "http-kit-288 running..."))
