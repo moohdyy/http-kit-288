@@ -12,3 +12,6 @@
 
 (defn stop []
   (@server))
+
+(defn -main [& args]
+  (start))
